@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f0f0;
+}
+
+h1 {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  background-color: #8fe88e;
+  padding: 20px;
+}
+
+#menu {
+  display: flex;
+  flex-direction: column;
+}
+
+button {
+  padding: 10px 20px;
+  margin-bottom: 10px;
+}
+
+#resultado {
+  background-color: #fff;
+  padding: 20px;
+  margin-left: 20px;
+}
